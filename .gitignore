@@ -205,3 +205,10 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+# Manim render outputs
+media/
+videos/
+images/
+Tex/
+partial_movie_files/
